@@ -2,15 +2,10 @@
 PDE's: Solvers for wave equation in 1D
 
 >>> FTCS scheme (unconditionally unstable)
-
->>> upwind scheme
-
+>>> Upwind scheme
 >>> Lax-Wendroff scheme
-
 >>> Lax scheme
-
 >>> MacCormack scheme
-
 >>> RK4 scheme
 
 
