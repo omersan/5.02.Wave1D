@@ -2,11 +2,17 @@
 PDE's: Solvers for wave equation in 1D
 
 >>> FTCS scheme (unconditionally unstable)
+
 >>> upwind scheme
+
 >>> Lax-Wendroff scheme
+
 >>> Lax scheme
+
 >>> MacCormack scheme
+
 >>> RK4 scheme
+
 
 Sine wave propagation in periodic domain: Upwind scheme for 1 period
 ![upwind](https://cloud.githubusercontent.com/assets/15114859/10853324/8016e8c6-7f03-11e5-8073-c62c74f78708.png)
