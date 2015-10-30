@@ -8,15 +8,13 @@ PDE's: Solvers for wave equation in 1D
 >>> MacCormack scheme
 >>> RK4 scheme
 
-Sine wave propagation in periodic domain:
-
-Upwind scheme for 1 period
+Sine wave propagation in periodic domain: Upwind scheme for 1 period
 ![upwind](https://cloud.githubusercontent.com/assets/15114859/10853324/8016e8c6-7f03-11e5-8073-c62c74f78708.png)
 
-Lax-Wendroff scheme for 1 period
+Sine wave propagation in periodic domain: Lax-Wendroff scheme for 1 period
 ![lw](https://cloud.githubusercontent.com/assets/15114859/10853322/8013e84c-7f03-11e5-98ea-1b19499bfdc5.png)
 
-Runge-Kutta scheme for 1 period
+Sine wave propagation in periodic domain: Runge-Kutta scheme for 1 period
 ![rk4](https://cloud.githubusercontent.com/assets/15114859/10853323/801425d2-7f03-11e5-8c61-4f71c79e3fc6.png)
 
 Upwind scheme (c=0.5): comparison with exact solution after 1 period
